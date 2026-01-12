@@ -658,3 +658,64 @@ body > main {
     border-radius: 0;
   }
 }
+
+/* Social Media Section */
+.social-card {
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid rgba(23, 198, 235, 0.1);
+}
+
+.social-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 40px rgba(23, 198, 235, 0.15);
+}
+
+.social-icon {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto 20px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+  color: white;
+}
+
+.social-icon.github {
+  background: linear-gradient(135deg, #1a1a1a, #333333);
+}
+
+.social-icon.gitlab {
+  background: linear-gradient(135deg, #FC6D26, #FFA500);
+}
+
+.social-icon.linkedin {
+  background: linear-gradient(135deg, #0077B5, #00A0DF);
+}
+
+.social-icon.instagram {
+  background: linear-gradient(135deg, #F58529, #DD2A7B, #8134AF);
+}
+
+.social-card h3 {
+  margin: 15px 0 8px;
+  font-size: 1.3rem;
+}
+
+.social-card .muted {
+  color: var(--accent);
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.social-card p {
+  font-size: 0.95rem;
+  margin-bottom: 20px;
+  color: var(--text-secondary);
+}
+
+.social-card .btn {
+  display: inline-block;
+}

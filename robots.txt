@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /photo/
+
+# Disallow private or admin paths if any
+Disallow: /admin
+Disallow: /private
+
+# Sitemap
+Sitemap: https://rohitcs.in/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1
