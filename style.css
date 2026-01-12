@@ -11,6 +11,18 @@
   margin-left: auto;
   margin-right: auto;
   z-index: 1;
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+    box-shadow: 0 4px 24px rgba(23,198,235,.10);
+  }
+  50% {
+    transform: translateY(-20px);
+    box-shadow: 0 20px 40px rgba(23,198,235,.20);
+  }
 }
 .hero-photo-card::before {
   content: "";
