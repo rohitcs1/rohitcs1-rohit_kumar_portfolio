@@ -35,7 +35,7 @@ This portfolio is optimized for maximum search engine visibility:
 
 ✅ **Multiple Keywords:** rohitcs, rohitcs1, rohit kumar, full stack developer  
 ✅ **Structured Data:** Person Schema, ImageGallery, BreadcrumbList  
-✅ **Social Media Tags:** Open Graph, Twitter Cards for LinkedIn, Instagram, Facebook  
+✅ **Social Media Tags:** Open Graph for LinkedIn, Instagram, Facebook  
 ✅ **Image SEO:** All portfolio images indexed with proper titles and captions  
 ✅ **Sitemap & Robots.txt:** Optimized for Google, Bing, and other search engines
 
@@ -103,7 +103,7 @@ This portfolio is optimized for maximum search engine visibility:
 ✅ **Meta Tags**
 - Title, description, keywords optimized for "rohitcs", "rohitcs1", "rohit kumar"
 - Open Graph tags for social media sharing
-- Twitter Card tags
+
 - Google verification meta tag
 
 ✅ **Structured Data (JSON-LD)**
@@ -184,7 +184,7 @@ Photos from portfolio will appear in:
 - Google Images
 - LinkedIn image previews
 - Instagram feed (when shared)
-- Twitter cards
+
 - Facebook link previews
 
 ---
